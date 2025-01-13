@@ -1,0 +1,9 @@
+com.HelloCampany.CarTurelGame.launcher-pngs-0 C:\Users\neonr\Car\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\generated\res\pngs\release
+com.HelloCampany.CarTurelGame.launcher-resValues-1 C:\Users\neonr\Car\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\generated\res\resValues\release
+com.HelloCampany.CarTurelGame.launcher-rs-2 C:\Users\neonr\Car\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\generated\res\rs\release
+com.HelloCampany.CarTurelGame.launcher-mergeReleaseResources-3 C:\Users\neonr\Car\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.HelloCampany.CarTurelGame.launcher-mergeReleaseResources-4 C:\Users\neonr\Car\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.HelloCampany.CarTurelGame.launcher-merged_res-5 C:\Users\neonr\Car\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\intermediates\merged_res\release
+com.HelloCampany.CarTurelGame.launcher-main-6 C:\Users\neonr\Car\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\res
+com.HelloCampany.CarTurelGame.launcher-release-7 C:\Users\neonr\Car\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\release\res
+com.HelloCampany.CarTurelGame.launcher-packaged_res-8 C:\Users\neonr\Car\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\packaged_res\release
